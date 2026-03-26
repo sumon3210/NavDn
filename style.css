@@ -2534,34 +2534,6 @@ h1, h2 {
 
 
 
-/* social-icons */
-/* Top Bar Styling */
-.top-bar {
-    background-color: #1e2732; /* আপনার নেভিগেশন বারের ডার্ক কালার */
-    padding: 10px 0;
-    display: flex;
-    justify-content: center; /* আইকনগুলো মাঝখানে রাখার জন্য */
-    align-items: center;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* নিচে হালকা একটি বর্ডার */
-}
-
-.social-icons {
-    display: flex;
-    gap: 25px; /* আইকনগুলোর মাঝখানের দূরত্ব */
-}
-
-.social-icons a {
-    color: #adb5bd; /* আইকনের সাধারণ ধূসর রঙ */
-    font-size: 20px;
-    text-decoration: none;
-    transition: all 0.3s ease; /* অ্যানিমেশন এর জন্য */
-}
-
-/* হোভার করলে আইকনের রঙ পরিবর্তন হবে */
-.social-icons a:hover {
-    color: #ffc107; /* আপনার লোগোর হলুদ কালার */
-    transform: translateY(-3px); /* মাউস নিলে একটু উপরে উঠবে */
-}
 
 
 
